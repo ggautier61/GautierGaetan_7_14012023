@@ -1,0 +1,180 @@
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\appsettings.Development.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\appsettings.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\IDENTITY.staticwebassets.runtime.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\IDENTITY.exe
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\IDENTITY.deps.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\IDENTITY.runtimeconfig.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\IDENTITY.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\IDENTITY.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Azure.Core.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Azure.Identity.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Humanizer.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.CodeDom.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\COMMON.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\EFCORE.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\COMMON.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\EFCORE.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.csproj.AssemblyReference.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.AssemblyInfoInputs.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.AssemblyInfo.cs
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.csproj.CoreCompileInputs.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\staticwebassets\msbuild.IDENTITY.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\staticwebassets\msbuild.build.IDENTITY.props
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IDENTITY.props
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IDENTITY.props
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\staticwebassets.build.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\staticwebassets.development.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\scopedcss\bundle\IDENTITY.styles.css
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.csproj.CopyComplete
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\refint\IDENTITY.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\IDENTITY.genruntimeconfig.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\obj\Debug\net7.0\ref\IDENTITY.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\MIGRATIONS.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\Version Blazor + aspnet\Gautier_Gaetan_7_14012023\CONNECT-E\IDENTITY\bin\Debug\net7.0\MIGRATIONS.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\appsettings.Development.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\appsettings.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\IDENTITY.staticwebassets.runtime.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\IDENTITY.exe
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\IDENTITY.deps.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\IDENTITY.runtimeconfig.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\IDENTITY.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\IDENTITY.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Azure.Core.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Azure.Identity.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Humanizer.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.CodeDom.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\COMMON.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\EFCORE.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\MIGRATIONS.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\COMMON.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\EFCORE.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\bin\Debug\net7.0\MIGRATIONS.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.csproj.AssemblyReference.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.AssemblyInfoInputs.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.AssemblyInfo.cs
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.csproj.CoreCompileInputs.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\staticwebassets\msbuild.IDENTITY.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\staticwebassets\msbuild.build.IDENTITY.props
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IDENTITY.props
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IDENTITY.props
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\staticwebassets.build.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\staticwebassets.development.json
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\scopedcss\bundle\IDENTITY.styles.css
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.csproj.CopyComplete
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\refint\IDENTITY.dll
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.pdb
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\IDENTITY.genruntimeconfig.cache
+D:\Workspace\Openclassroom\Projet 7 - Créez un réseau social d'entreprise\GautierGaetan_7_14012023\IDENTITY\obj\Debug\net7.0\ref\IDENTITY.dll
